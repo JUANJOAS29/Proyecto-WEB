@@ -1,0 +1,128 @@
+body{background:;
+    color:;
+    
+}
+
+/* encabezado*/
+.INICIO{background:;
+    width: 55px;
+    position: relative;
+    top:-150px;
+    left: 1420px;
+    
+}
+
+.PROYECTO{background:;
+    width: 91px;
+    position: relative;
+    top:-190px;
+    left: 1490px;
+    
+    
+}
+.ABOUT{background:;
+    width: 94px;
+    position: relative;
+    top:-228.4px;
+    left: 1600px;
+    
+}
+.CONTACTO{background:;
+    width: 91px;
+    position: relative;
+    top:-268px;
+    left: 1710px;
+    
+}
+
+.MARCO{background:;
+    width: 455px;
+    position: relative;
+    top:-350px;
+    left: 1385px;
+    
+}
+
+/* cuerpa*/
+.TITULO{background:;
+    width:150px;
+    position: relative;
+    top:-228.4px;
+    left: 840px;
+    
+}
+.INFO{
+    background: ;
+    position: relative;
+    font-size: 40px;
+    width: 660px;
+    left: 630px;
+}
+
+/* FINAL FINALOZA*/
+.GMAIL{background:;
+    width: 10px;
+    position: relative;
+    top: 150px;
+    left: 75px;
+}
+
+.CORREO{background:;
+    width: 336px;
+    position: relative;
+    top:407px;
+    left: 10px;
+    font-size: 30px;
+    text-align: center
+    }
+
+.instagram{
+    background:;
+    position: relative;
+    width: 95PX;
+    top: 130px;
+    left: 1530px;
+    font-size: 30px;
+    image-resolution: 
+}
+
+.INSTA{
+    position: relative;
+    width: 10px;
+    top:-115px;
+    left: 1492px;
+    
+}
+
+.PENUP{
+    background: ;
+    position: relative;
+    width: 50PX;
+    top: -135px;
+    left: 1759px;
+    font-size: 30px;
+
+}
+
+.PEN{
+    position: relative;
+    width: 10px;
+    top: -380px;
+    left: 1720px;
+}
+
+.BEHANCE{
+    background: ;
+    position: relative;
+    width: 75px;
+    top: -400px;
+    left: 1330px;
+    font-size: 30px;
+}
+
+.BEHAN{
+    position: relative;
+    width: 10px;
+    top: -645px;
+    left:1290px; 
+}

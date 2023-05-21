@@ -1,0 +1,124 @@
+body{background:black;
+    color: white;
+    
+}
+
+/* encabezado*/
+.INICIO{background:;
+    width: 55px;
+    position: relative;
+    top:-150px;
+    left: 1420px;
+    
+}
+
+.PROYECTO{background:;
+    width: 91px;
+    position: relative;
+    top:-190px;
+    left: 1490px;
+    
+    
+}
+.ABOUT{background:;
+    width: 94px;
+    position: relative;
+    top:-228.4px;
+    left: 1600px;
+    
+}
+.CONTACTO{background:;
+    width: 91px;
+    position: relative;
+    top:-268px;
+    left: 1710px;
+    
+}
+
+.MARCO{
+    background:RED;
+    width: 1px;
+    position: relative;
+    top:-350px;
+    left: 1385px;
+    
+}
+
+/* cuerpa*/
+.TITULO{background:;
+    width:150px;
+    position: relative;
+    top:-228.4px;
+    left: 840px;
+    
+}
+.FOTO{background:;
+    width: 94px;
+    position: relative;
+    top:-200px;
+    left: 120px;
+    
+}
+.Presentacion{background:;
+    width: 540px;
+    font-size: 25px;
+    position: relative;
+    top:-255px;
+    left: 120px;
+}
+.INFO{background:;
+    width: 650px;
+    position: relative;
+    top:-655px;
+    left: 1120px;
+    font-size: 30px;
+    text-align: center
+    
+}
+
+/* FINAL FINALOZA*/
+.CORREO{background:;
+    width: 336px;
+    position: relative;
+    top:-598px;
+    left: 10px;
+    font-size: 30px;
+    text-align: center
+    }
+
+.INSTGRAM{background:;
+    color: white;
+    width: 190px;
+    position: relative;
+    top:-632px;
+    left: 1300px;
+    font-size: 30px;
+    text-align: center
+    
+}
+.PENUP{background:;
+    color: white;
+    width: 100px;
+    position: relative;
+    top:-666px;
+    left: 1500px;
+    font-size: 30px;
+    text-align: center
+    
+}
+.BEHANCE{background:;
+    color: white;
+    width: 150px;
+    position: relative;
+    top:-700px;
+    left: 1620px;
+    font-size: 30px;
+    text-align: center
+    
+}
+.main{background:;
+    width: 500px;
+    height: -150px;
+}
+
+
